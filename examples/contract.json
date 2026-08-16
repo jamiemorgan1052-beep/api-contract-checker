@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "required": ["jobs", "page"],
+  "additionalProperties": false,
+  "properties": {
+    "page": {"type": "integer"},
+    "jobs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "remote"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {"type": "integer"},
+          "title": {"type": "string"},
+          "remote": {"type": "boolean"}
+        }
+      }
+    }
+  }
+}
