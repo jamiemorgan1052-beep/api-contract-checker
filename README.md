@@ -6,6 +6,8 @@ handoffs where deterministic error locations matter.
 
 ![Abstract project illustration](docs/featured.png)
 
+Need a small API-QA or automation task delivered for you? Book the fixed-scope [Python Automation, Data Cleanup & QA service](https://contra.com/s/mXUk6X3o-python-automation-data-cleanup-and-qa) from USD 75.
+
 ## Features
 
 - Nested object and array validation
