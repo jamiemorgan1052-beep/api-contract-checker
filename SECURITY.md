@@ -6,4 +6,3 @@ confidential contracts to a public report.
 
 The checker performs local structural validation only. It does not establish
 that response content is safe, authentic, or suitable for a particular use.
-
