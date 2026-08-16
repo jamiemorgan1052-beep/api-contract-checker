@@ -8,6 +8,8 @@ handoffs where deterministic error locations matter.
 
 Need a small API-QA or automation task delivered for you? Book the fixed-scope [Python Automation, Data Cleanup & QA service](https://contra.com/s/mXUk6X3o-python-automation-data-cleanup-and-qa) from USD 75.
 
+Prefer a reusable download? Buy the [single-user commercial toolkit for USD 19](https://contra.com/products/7dM3HzIe-json-api-contract-checker-python-toolkit).
+
 ## Features
 
 - Nested object and array validation
